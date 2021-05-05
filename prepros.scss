@@ -12,11 +12,11 @@ input{
 body{
     font-family:'Roboto', sans-serif;
     display: grid;
-
+    background: #30394A;
 }
 .wrapper{
     min-width: 1600px;
-    
+    background-color: white;
     justify-self: center;
 }   
 .header__body{
